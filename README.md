@@ -1,2 +1,2 @@
 # hello-world
-Learning time
+I am a student in the School of Mathematics Sciences, Peking University.
